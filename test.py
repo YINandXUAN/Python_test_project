@@ -1,3 +1,3 @@
-#coding : utf-8
-print "this is the test !"
-print "this is the Git test "
+#coding:gbk
+import time
+print time.mktime('1-1-1 2:2;2')
